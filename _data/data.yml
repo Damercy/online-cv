@@ -48,116 +48,51 @@ career-profile:
     title: Career Profile
     summary: |
       I am a 3rd-year student who is interested in algorithms and data structures
-      and has also tried some hands-on Machine learning and UI design.
+      and has also tried some hands-on Machine learning and UI design. I am actively looking
+      for internship opportunities, so feel free to contact me!
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Computer Science Engineering
+      university: Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar
+      gpa:  9.24/10.0 (5th sem)
+      time: 2017 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        The key courses studied in college include:
+          - Data Structures & ALgorithms
+          - Software Engineering
+          - Database Management Systems
+          - Operating System
+          - Computer Networks
+          - Formal Languages & Automata theory
+          - High Performance Computer Architecture
+    - degree: HSC (CBSE)
+      university: Hem Sheela Model School, Durgapur
+      gpa: 92.2% / 100.0%
+      time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I did my +2 from HSMS,Durgapur with my subject stack being PCM (Physics-Chemistry-Maths) alongwith PE (Physical Education)
+        and Computer Science.
+        
+    - degree: SSC (ICSE)
+      university: St. Xavier's School, Durgapur
+      gpa: 86.0% / 100.0%
+      time: 2004 - 2015
+          
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I like to build things when they excite me. Here's a few basic things that I've tried till date.
     assignments:
       - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: ""
+        tagline: "A 1D racing game made using python and pygame."
 
-      - title: DevStudio
+      - title: ScrapeStocks
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Created a web scraper to scrape live stocks data from NSE using Selenium at an interval of 15 minutes for a friend."
 
-      - title: Tempo
+      - title: ScheduleBasicRR
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "A short term Round Robin scheduler."
 
 skills:
     title: Skills &amp; Proficiency
@@ -174,9 +109,6 @@ skills:
 
       - name: HTML5 & CSS
         level: 60%
-
-      #- name: Ruby on Rails
-      #  level: 85%
 
       - name: UI/UX Design
         level: 60%
