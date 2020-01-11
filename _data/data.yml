@@ -61,8 +61,7 @@ education:
       university: Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar
       time: 2017 - 2021
       details: |
-        GPA: 9.24/10.0 (5th sem)
-      details: |
+        GPA: 9.24/10.0 (5th sem) |
         The key courses studied in college include:
           - Data Structures & ALgorithms
           - Software Engineering
@@ -75,8 +74,7 @@ education:
       university: Hem Sheela Model School, Durgapur
       time: 2015 - 2017
       details: |
-        GPA: 92.2% / 100.0%
-      details: |
+        GPA: 92.2% / 100.0% |
         I did my +2 from HSMS,Durgapur with my subject stack being PCM (Physics-Chemistry-Maths) alongwith PE (Physical Education)
         and Computer Science.
         
@@ -97,7 +95,7 @@ projects:
 
       - title: ScrapeStocks
         link: "#"
-        tagline: "Created a web scraper to scrape live stocks data from NSE using Selenium at an interval of 15 minutes for a friend."
+        tagline: "Created a web scraper for a friend to scrape live stocks data from NSE using Selenium at an interval of 15 minutes."
 
       - title: ScheduleBasicRR
         link: "#"
