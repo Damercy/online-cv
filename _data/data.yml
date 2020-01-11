@@ -43,6 +43,12 @@ sidebar:
 
       - item: Cooking
         link:
+     
+      - item: Reading
+        link:
+        
+      - item: Psychology
+        link:
 
 career-profile:
     title: Career Profile
@@ -53,9 +59,9 @@ career-profile:
 education:
     - degree: B.Tech in Computer Science Engineering
       university: Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar
-      gpa:  9.24/10.0 (5th sem)
       time: 2017 - 2021
       details: |
+        GPA: 9.24/10.0 (5th sem)
         The key courses studied in college include:
           - Data Structures & ALgorithms
           - Software Engineering
@@ -66,21 +72,22 @@ education:
           - High Performance Computer Architecture
     - degree: HSC (CBSE)
       university: Hem Sheela Model School, Durgapur
-      gpa: 92.2% / 100.0%
       time: 2015 - 2017
       details: |
+        GPA: 92.2% / 100.0%
         I did my +2 from HSMS,Durgapur with my subject stack being PCM (Physics-Chemistry-Maths) alongwith PE (Physical Education)
         and Computer Science.
         
     - degree: SSC (ICSE)
       university: St. Xavier's School, Durgapur
-      gpa: 86.0% / 100.0%
       time: 2004 - 2015
+      details: |
+       GPA: 86.0% / 100.0%
           
 projects:
     title: Projects
     intro: >
-      I like to build things when they excite me. Here's a few basic things that I've tried till date.
+      I like to experiment & build things that excite me. Here's a few basic things that I've tried till date!
     assignments:
       - title: Begin_Race
         link: "https://github.com/Damercy/Begin_Race"
