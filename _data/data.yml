@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Dayamoy Adhikari
@@ -82,8 +82,8 @@ projects:
     intro: >
       I like to build things when they excite me. Here's a few basic things that I've tried till date.
     assignments:
-      - title: Velocity
-        link: ""
+      - title: Begin_Race
+        link: "https://github.com/Damercy/Begin_Race"
         tagline: "A 1D racing game made using python and pygame."
 
       - title: ScrapeStocks
