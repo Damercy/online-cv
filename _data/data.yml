@@ -31,11 +31,8 @@ sidebar:
         level: Professional
 
     interests:
-      - item: UI/UX Design
-        link:
-
       - item: Blogging
-        link:
+        link: https://damercy.github.io/compute/
 
       - item: Cooking
         link:
@@ -43,8 +40,6 @@ sidebar:
       - item: Reading
         link:
         
-      - item: Psychology
-        link:
 
 career-profile:
     title: Career Profile
@@ -57,7 +52,7 @@ education:
       university: Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar
       time: 2017 - 2021
       details: |
-        GPA: 9.24/10.0 (5th sem);
+        CGPA: 9.24/10.0 (5th sem);
         The key courses studied in college include:
           - Data Structures & Algorithms
           - Software Engineering
@@ -70,7 +65,7 @@ education:
       university: Hem Sheela Model School, Durgapur
       time: 2015 - 2017
       details: |
-        GPA: 92.2% / 100.0%;
+        Percentage: 92.2% / 100.0%;
         I did my +2 from HSMS,Durgapur with my subject stack being PCM (Physics-Chemistry-Maths) alongwith PE (Physical Education)
         and Computer Science.
         
@@ -78,7 +73,7 @@ education:
       university: St. Xavier's School, Durgapur
       time: 2004 - 2015
       details: |
-       GPA: 86.0% / 100.0%
+       Percentage: 86.0% / 100.0%
           
 projects:
     title: Projects
@@ -103,6 +98,9 @@ skills:
     toolset:
       - name: C++
         level: 80%
+        
+      - name: C 
+        level: 70%
 
       - name: Python
         level: 70%
@@ -111,10 +109,10 @@ skills:
         level: 85%
 
       - name: HTML5 & CSS
-        level: 60%
+        level: 40%
 
       - name: UI/UX Design
-        level: 60%
-
+        level: 20%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> using Github!
