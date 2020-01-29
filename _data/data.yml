@@ -14,16 +14,12 @@ sidebar:
     # Sidebar links
     email: adhikaridayamoy@gmail.com
     phone: +91-8342891018
-    website: damercy.github.io #do not add http://
+    #website: damercy.github.io #do not add http:// #Complete website goddamit!
     linkedin: dayamoy-adhikari-0824b417a/
     github: Damercy
-    #gitlab:
-    #bitbucket:
     twitter: '@Damercysiyzarc'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-
+    hackerrank: adhikaridayamoy
+ 
     languages:
       - idiom: English
         level: Professional
