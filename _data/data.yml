@@ -89,7 +89,7 @@ projects:
         tagline: "Created a web scraper for a friend to scrape live stocks data from NSE using Selenium at an interval of 15 minutes."
 
       - title: ScheduleBasicRR
-        link: "#"   #Upload to repo. the program. Write .MD file!
+        link: "https://github.com/Damercy/RRScheduler"   #Upload to repo. the program. Write .MD file!
         tagline: "A short term Round Robin scheduler."
 
 skills:
