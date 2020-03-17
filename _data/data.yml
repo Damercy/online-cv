@@ -91,6 +91,10 @@ projects:
       - title: ScheduleBasicRR
         link: "https://github.com/Damercy/RRScheduler"   #Upload to repo. the program. Write .MD file!
         tagline: "A short term Round Robin scheduler."
+        
+      - title: LogReg
+        link: "https://github.com/Damercy/LogReg"   #Upload to repo. the program. Write .MD file!
+        tagline: "An android application that showcases a bit of design skills that I have learnt. Integrated with Firebase services, including Login and Registration facilities. "
 
 skills:
     title: Skills &amp; Proficiency
